@@ -11,6 +11,7 @@ body {
   position: relative;
   left: 41.5%;
   background-color: grey;
+  overflow: hidden;
 }
 
 .container {
